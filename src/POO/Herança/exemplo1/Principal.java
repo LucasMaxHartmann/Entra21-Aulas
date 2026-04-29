@@ -1,4 +1,4 @@
-package POO.Basico.Herança.exemplo1;
+package POO.Herança.exemplo1;
 
 public class Principal {
     public static void main(String[] args) {

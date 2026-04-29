@@ -1,4 +1,4 @@
-package POO.Basico.Herança.exemplo1;
+package POO.Herança.exemplo1;
 
 public class Pessoa {
     private String nome;

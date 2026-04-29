@@ -1,4 +1,4 @@
-package POO.Basico.Herança.exemplo2;
+package POO.Herança.exemplo2;
 
 public class Vendedor extends Funcionario{
 
