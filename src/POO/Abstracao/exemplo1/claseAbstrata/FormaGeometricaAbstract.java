@@ -1,4 +1,4 @@
-package POO.abstracao.exemplo1.claseAbstrata;
+package POO.Abstracao.exemplo1.claseAbstrata;
 
 public abstract class FormaGeometricaAbstract {
 

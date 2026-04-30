@@ -1,4 +1,4 @@
-package POO.abstracao.exemplo2;
+package POO.Abstracao.exemplo2;
 
 public class Boleto extends Pagamento{
 

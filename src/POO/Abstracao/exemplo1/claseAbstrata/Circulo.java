@@ -1,6 +1,6 @@
-package POO.abstracao.exemplo1.interfacee;
+package POO.Abstracao.exemplo1.claseAbstrata;
 
-public class Circulo implements IFormaGeometrica {
+public class Circulo extends FormaGeometricaAbstract {
 
     private double raio;
 
@@ -9,7 +9,8 @@ public class Circulo implements IFormaGeometrica {
     }
 
     @Override
-    public double calcularArea() {
+    double calcularArea() {
         return raio * raio * Math.PI;
     }
 }
+
